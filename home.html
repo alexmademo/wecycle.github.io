@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <title>WeCycle</title>
+        
+        <!--LEAFLET:-->
+        <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"></script>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css"/>
+        
+        <!--SCRIPTS:-->
+        <script src="https://www.gstatic.com/firebasejs/5.0.3/firebase.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>     
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+        
+
+        <!--OWN CSS:-->
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link href="style/index.css" rel="stylesheet"/>
+        
+        <!--FONTS (should this link go in the css file?):-->        
+        <link href="https://fonts.googleapis.com/css?family=Libre+Franklin" rel="stylesheet">
+    </head>
+    
+    <body>
+
+<!-- Header -->
+  <header class="w3-container w3-padding-32 w3-center w3-blue" id="home">
+      <img src="assets/wecycle-logo-header.png">
+    <h1><span class="w3-xlarge">Welcome to<br></span>
+        <span class="w3-jumbo">WeCycle</span>
+    </h1>
+            <div class="row w3-padding-16">
+            <a class="col-4 w3-button w3-hover-white" href="index.html">About</a>
+            <a class="col-4 w3-button w3-hover-white" href=#>Home</a>
+            <a class="col-4 w3-button w3-hover-white" href="data.html">Data</a>
+        </div>
+  </header>
+
+<!-- Map -->
+<div class="container-fluid w3-padding-32 w3-container w3-center">
+        <h2>Explore available bikes</h2><br>
+        <div class="map container-fluid w3-container w3-center" id="wecyclemap"></div>
+</div>
+        
+  <!-- Data -->
+<div class="container-fluid w3-padding-32 w3-center w3-container w3-blue">
+    <a href="data.html"><h2 class="w3-text-white">Explore the data</h2>
+    <img src="assets/dataplot2.png" id="dataimage"></a>
+</div>
+
+  <!-- Recent activity -->
+<div class="container-fluid w3-padding-32 w3-center w3-container" id="about">
+    <!-- Testimonials -->
+    <h2 class="w3-padding-24">Recent activity</h2>
+    <img src="assets/avatar-1.png" alt="Avatar" class="w3-circle w3-margin-right" style="width:80px">
+    <p><span class="w3-large w3-margin-right">Ivan Himanen</span>student at IAAC</p>
+    <p>"Went grocery shopping."
+      <br>(profile page?)</p><br>
+    
+    <img src="assets/avatar-2.png" alt="Avatar" class="w3-circle w3-margin-right" style="width:80px">
+    <p><span class="w3-large w3-margin-right">Ren Jiale</span>resident of Pobelnou</p>
+    <p>"Spent my Saturday biking on the beach."
+      <br>(profile page?)</p>
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-padding-20 w3-center w3-blue">  
+  <div class="w3-medium w3-padding-32">
+    <p>Students: Ivan Himanen, Ren Jiale<br>
+        Faculty: Andre Resende<br>
+      Summer 2018</p>
+      <img src="assets/iaac-logo-barcelona-inverted.png" style="width:200px">
+ </div>
+</footer>
+
+<script src="https://www.gstatic.com/firebasejs/5.0.3/firebase.js"></script>
+<script src="script/index.js"></script>
+        
+        
+    </body>
+</html>

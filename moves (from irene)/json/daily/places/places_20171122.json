@@ -1,0 +1,74 @@
+[ {
+  "date" : "20171122",
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20171121T213258+0100",
+    "endTime" : "20171122T141131+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171126T163214Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171122T142233+0100",
+    "endTime" : "20171122T172858+0100",
+    "place" : {
+      "id" : 724863693,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.396092,
+        "lon" : 2.1933787
+      }
+    },
+    "lastUpdate" : "20171122T174749Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171122T173244+0100",
+    "endTime" : "20171122T210814+0100",
+    "place" : {
+      "id" : 724726006,
+      "name" : "IAAC > Institute for Advanced Architecture of Catalonia",
+      "type" : "facebook",
+      "facebookPlaceId" : "247876728823",
+      "location" : {
+        "lat" : 41.39672,
+        "lon" : 2.19431
+      }
+    },
+    "lastUpdate" : "20171126T163233Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171122T210814+0100",
+    "endTime" : "20171122T211848+0100",
+    "place" : {
+      "id" : 734178073,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.395787,
+        "lon" : 2.1930652
+      }
+    },
+    "lastUpdate" : "20171122T204808Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171122T213926+0100",
+    "endTime" : "20171123T125321+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171126T163214Z"
+  } ],
+  "lastUpdate" : "20171126T163233Z"
+} ]

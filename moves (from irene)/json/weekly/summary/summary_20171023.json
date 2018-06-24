@@ -1,0 +1,101 @@
+[ {
+  "date" : "20171023",
+  "summary" : [ {
+    "activity" : "cycling",
+    "group" : "cycling",
+    "duration" : 429.0,
+    "distance" : 1566.0,
+    "calories" : 30
+  }, {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 415.0,
+    "distance" : 481.0,
+    "steps" : 732,
+    "calories" : 20
+  } ],
+  "caloriesIdle" : 1225,
+  "lastUpdate" : "20171126T163214Z"
+}, {
+  "date" : "20171024",
+  "summary" : [ {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 1851.0,
+    "distance" : 1417.0,
+    "steps" : 1896,
+    "calories" : 60
+  } ],
+  "caloriesIdle" : 1225,
+  "lastUpdate" : "20171126T163214Z"
+}, {
+  "date" : "20171025",
+  "summary" : [ {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 1767.0,
+    "distance" : 2482.0,
+    "steps" : 2474,
+    "calories" : 106
+  }, {
+    "activity" : "transport",
+    "group" : "transport",
+    "duration" : 550.0,
+    "distance" : 1779.0
+  } ],
+  "caloriesIdle" : 1225,
+  "lastUpdate" : "20171126T163214Z"
+}, {
+  "date" : "20171026",
+  "summary" : [ {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 3276.0,
+    "distance" : 3403.0,
+    "steps" : 4982,
+    "calories" : 145
+  }, {
+    "activity" : "cycling",
+    "group" : "cycling",
+    "duration" : 517.0,
+    "distance" : 1591.0,
+    "calories" : 31
+  } ],
+  "caloriesIdle" : 1225,
+  "lastUpdate" : "20171126T163233Z"
+}, {
+  "date" : "20171027",
+  "summary" : [ {
+    "activity" : "cycling",
+    "group" : "cycling",
+    "duration" : 782.0,
+    "distance" : 2268.0,
+    "calories" : 45
+  }, {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 6130.0,
+    "distance" : 6346.0,
+    "steps" : 9781,
+    "calories" : 270
+  } ],
+  "caloriesIdle" : 1225,
+  "lastUpdate" : "20171126T163233Z"
+}, {
+  "date" : "20171028",
+  "summary" : [ {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 5596.0,
+    "distance" : 5246.0,
+    "steps" : 7762,
+    "calories" : 223
+  }, {
+    "activity" : "transport",
+    "group" : "transport",
+    "duration" : 11908.0,
+    "distance" : 205119.0
+  } ],
+  "caloriesIdle" : 1225,
+  "lastUpdate" : "20171126T163214Z"
+} ]

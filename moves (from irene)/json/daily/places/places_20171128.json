@@ -1,0 +1,88 @@
+[ {
+  "date" : "20171128",
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20171127T214639+0100",
+    "endTime" : "20171128T142132+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171128T140433Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171128T143213+0100",
+    "endTime" : "20171128T152007+0100",
+    "place" : {
+      "id" : 724726006,
+      "name" : "IAAC > Institute for Advanced Architecture of Catalonia",
+      "type" : "facebook",
+      "facebookPlaceId" : "247876728823",
+      "location" : {
+        "lat" : 41.39672,
+        "lon" : 2.19431
+      }
+    },
+    "lastUpdate" : "20171128T153615Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171128T152911+0100",
+    "endTime" : "20171128T190320+0100",
+    "place" : {
+      "id" : 724078566,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.391992,
+        "lon" : 2.2000039
+      }
+    },
+    "lastUpdate" : "20171128T184059Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171128T192605+0100",
+    "endTime" : "20171128T200553+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171128T201539Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171128T202018+0100",
+    "endTime" : "20171128T211846+0100",
+    "place" : {
+      "id" : 736596411,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.390484,
+        "lon" : 2.175319
+      }
+    },
+    "lastUpdate" : "20171128T214920Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171128T213042+0100",
+    "endTime" : "20171129T085615+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171129T085241Z"
+  } ],
+  "lastUpdate" : "20171129T085241Z"
+} ]

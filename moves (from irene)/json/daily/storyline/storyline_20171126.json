@@ -1,0 +1,233 @@
+[ {
+  "date" : "20171126",
+  "summary" : [ {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 3376.0,
+    "distance" : 3714.0,
+    "steps" : 5392,
+    "calories" : 158
+  } ],
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20171125T230820+0100",
+    "endTime" : "20171126T001300+0100",
+    "place" : {
+      "id" : 735734312,
+      "name" : "Lateral Barcelona",
+      "type" : "facebook",
+      "facebookPlaceId" : "1211905448823876",
+      "location" : {
+        "lat" : 41.38979,
+        "lon" : 2.1638099
+      }
+    },
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171126T000945+0100",
+      "endTime" : "20171126T001106+0100",
+      "duration" : 81.0,
+      "distance" : 55.0,
+      "steps" : 111,
+      "calories" : 2,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20171126T163322Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20171126T001300+0100",
+    "endTime" : "20171126T004208+0100",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171126T001300+0100",
+      "endTime" : "20171126T004207+0100",
+      "duration" : 1747.0,
+      "distance" : 1883.0,
+      "steps" : 2973,
+      "calories" : 80,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20171125T235804Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171126T004208+0100",
+    "endTime" : "20171126T133601+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171126T004208+0100",
+      "endTime" : "20171126T004235+0100",
+      "duration" : 27.0,
+      "distance" : 20.0,
+      "steps" : 41,
+      "calories" : 1,
+      "trackPoints" : [ ]
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171126T133112+0100",
+      "endTime" : "20171126T133600+0100",
+      "duration" : 288.0,
+      "distance" : 333.0,
+      "steps" : 444,
+      "calories" : 14,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20171126T163214Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20171126T133601+0100",
+    "endTime" : "20171126T133633+0100",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171126T133601+0100",
+      "endTime" : "20171126T133633+0100",
+      "duration" : 32.0,
+      "distance" : 52.0,
+      "steps" : 43,
+      "calories" : 2,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20171126T134645Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171126T133633+0100",
+    "endTime" : "20171126T135056+0100",
+    "place" : {
+      "id" : 735938218,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.387449,
+        "lon" : 2.1792177
+      }
+    },
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171126T133633+0100",
+      "endTime" : "20171126T134741+0100",
+      "duration" : 668.0,
+      "distance" : 752.0,
+      "steps" : 1003,
+      "calories" : 32,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20171126T134645Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20171126T135056+0100",
+    "endTime" : "20171126T135541+0100",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171126T135056+0100",
+      "endTime" : "20171126T135540+0100",
+      "duration" : 284.0,
+      "distance" : 380.0,
+      "steps" : 418,
+      "calories" : 16,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20171126T134645Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171126T135541+0100",
+    "endTime" : "20171126T140029+0100",
+    "place" : {
+      "id" : 735938219,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.385547,
+        "lon" : 2.1804016
+      }
+    },
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171126T135701+0100",
+      "endTime" : "20171126T135810+0100",
+      "duration" : 69.0,
+      "distance" : 52.0,
+      "steps" : 104,
+      "calories" : 2,
+      "trackPoints" : [ ]
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171126T140000+0100",
+      "endTime" : "20171126T140024+0100",
+      "duration" : 24.0,
+      "distance" : 17.0,
+      "steps" : 35,
+      "calories" : 1,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20171126T134645Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20171126T140029+0100",
+    "endTime" : "20171126T140302+0100",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171126T140029+0100",
+      "endTime" : "20171126T140302+0100",
+      "duration" : 153.0,
+      "distance" : 167.0,
+      "steps" : 214,
+      "calories" : 7,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20171126T134645Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171126T154033+0100",
+    "endTime" : "20171127T151115+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171126T173148+0100",
+      "endTime" : "20171126T173151+0100",
+      "duration" : 3.0,
+      "distance" : 3.0,
+      "steps" : 6,
+      "calories" : 0,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20171127T144238Z"
+  } ],
+  "caloriesIdle" : 1225,
+  "lastUpdate" : "20171127T144238Z"
+} ]

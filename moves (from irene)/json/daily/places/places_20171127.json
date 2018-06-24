@@ -1,0 +1,87 @@
+[ {
+  "date" : "20171127",
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20171126T154033+0100",
+    "endTime" : "20171127T151115+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171127T144238Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171127T152241+0100",
+    "endTime" : "20171127T173418+0100",
+    "place" : {
+      "id" : 724863693,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.396092,
+        "lon" : 2.1933787
+      }
+    },
+    "lastUpdate" : "20171127T174819Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171127T173830+0100",
+    "endTime" : "20171127T210426+0100",
+    "place" : {
+      "id" : 724726006,
+      "name" : "IAAC > Institute for Advanced Architecture of Catalonia",
+      "type" : "facebook",
+      "facebookPlaceId" : "247876728823",
+      "location" : {
+        "lat" : 41.39672,
+        "lon" : 2.19431
+      }
+    },
+    "lastUpdate" : "20171127T205153Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171127T211143+0100",
+    "endTime" : "20171127T212424+0100",
+    "place" : {
+      "id" : 724863693,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.396092,
+        "lon" : 2.1933787
+      }
+    },
+    "lastUpdate" : "20171127T205153Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171127T213749+0100",
+    "endTime" : "20171127T214332+0100",
+    "place" : {
+      "id" : 725781489,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.386285,
+        "lon" : 2.1813118
+      }
+    },
+    "lastUpdate" : "20171127T205153Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171127T214639+0100",
+    "endTime" : "20171128T142132+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171128T140433Z"
+  } ],
+  "lastUpdate" : "20171128T140433Z"
+} ]

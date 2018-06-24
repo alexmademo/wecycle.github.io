@@ -1,0 +1,128 @@
+[ {
+  "date" : "20171123",
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20171122T213926+0100",
+    "endTime" : "20171123T125321+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171126T163214Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171123T125607+0100",
+    "endTime" : "20171123T125825+0100",
+    "place" : {
+      "id" : 734789189,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.386153,
+        "lon" : 2.1809268
+      }
+    },
+    "lastUpdate" : "20171123T121741Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171123T130835+0100",
+    "endTime" : "20171123T131911+0100",
+    "place" : {
+      "id" : 724863693,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.396092,
+        "lon" : 2.1933787
+      }
+    },
+    "lastUpdate" : "20171123T134748Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171123T131911+0100",
+    "endTime" : "20171123T142528+0100",
+    "place" : {
+      "id" : 724726006,
+      "name" : "IAAC > Institute for Advanced Architecture of Catalonia",
+      "type" : "facebook",
+      "facebookPlaceId" : "247876728823",
+      "location" : {
+        "lat" : 41.39672,
+        "lon" : 2.19431
+      }
+    },
+    "lastUpdate" : "20171126T163233Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171123T142736+0100",
+    "endTime" : "20171123T191353+0100",
+    "place" : {
+      "id" : 724863693,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.396092,
+        "lon" : 2.1933787
+      }
+    },
+    "lastUpdate" : "20171123T195326Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171123T191652+0100",
+    "endTime" : "20171123T202746+0100",
+    "place" : {
+      "id" : 724726006,
+      "name" : "IAAC > Institute for Advanced Architecture of Catalonia",
+      "type" : "facebook",
+      "facebookPlaceId" : "247876728823",
+      "location" : {
+        "lat" : 41.39672,
+        "lon" : 2.19431
+      }
+    },
+    "lastUpdate" : "20171126T163233Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171123T202953+0100",
+    "endTime" : "20171123T204557+0100",
+    "place" : {
+      "id" : 734178073,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.395787,
+        "lon" : 2.1930652
+      }
+    },
+    "lastUpdate" : "20171123T212320Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171123T205327+0100",
+    "endTime" : "20171123T205554+0100",
+    "place" : {
+      "id" : 734931653,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.387013,
+        "lon" : 2.1819507
+      }
+    },
+    "lastUpdate" : "20171123T212320Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171123T210001+0100",
+    "endTime" : "20171124T143721+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171126T163214Z"
+  } ],
+  "lastUpdate" : "20171126T163233Z"
+} ]

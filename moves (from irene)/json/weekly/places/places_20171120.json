@@ -1,0 +1,653 @@
+[ {
+  "date" : "20171120",
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20171120T134427+0100",
+    "endTime" : "20171120T134532+0100",
+    "place" : {
+      "id" : 724863693,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.396092,
+        "lon" : 2.1933787
+      }
+    },
+    "lastUpdate" : "20171120T165928Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171120T162825+0100",
+    "endTime" : "20171120T202939+0100",
+    "place" : {
+      "id" : 724863693,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.396092,
+        "lon" : 2.1933787
+      }
+    },
+    "lastUpdate" : "20171120T195342Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171120T205001+0100",
+    "endTime" : "20171120T205619+0100",
+    "place" : {
+      "id" : 725781489,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.386285,
+        "lon" : 2.1813118
+      }
+    },
+    "lastUpdate" : "20171120T210020Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171120T210007+0100",
+    "endTime" : "20171121T085440+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171126T163214Z"
+  } ],
+  "lastUpdate" : "20171126T163214Z"
+}, {
+  "date" : "20171121",
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20171120T210007+0100",
+    "endTime" : "20171121T085440+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171126T163214Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171121T091519+0100",
+    "endTime" : "20171121T101942+0100",
+    "place" : {
+      "id" : 734156548,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.38545,
+        "lon" : 2.1633247
+      }
+    },
+    "lastUpdate" : "20171121T093055Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171121T101942+0100",
+    "endTime" : "20171121T102457+0100",
+    "place" : {
+      "id" : 734156548,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.38545,
+        "lon" : 2.1633247
+      }
+    },
+    "lastUpdate" : "20171121T110546Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171121T105415+0100",
+    "endTime" : "20171121T105831+0100",
+    "place" : {
+      "id" : 734178072,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.387116,
+        "lon" : 2.1806514
+      }
+    },
+    "lastUpdate" : "20171121T110546Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171121T111842+0100",
+    "endTime" : "20171121T112954+0100",
+    "place" : {
+      "id" : 734197062,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.395515,
+        "lon" : 2.1927608
+      }
+    },
+    "lastUpdate" : "20171121T121958Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171121T113251+0100",
+    "endTime" : "20171121T192804+0100",
+    "place" : {
+      "id" : 724863693,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.396092,
+        "lon" : 2.1933787
+      }
+    },
+    "lastUpdate" : "20171121T200529Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171121T193123+0100",
+    "endTime" : "20171121T210919+0100",
+    "place" : {
+      "id" : 724726006,
+      "name" : "IAAC > Institute for Advanced Architecture of Catalonia",
+      "type" : "facebook",
+      "facebookPlaceId" : "247876728823",
+      "location" : {
+        "lat" : 41.39672,
+        "lon" : 2.19431
+      }
+    },
+    "lastUpdate" : "20171126T163233Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171121T213258+0100",
+    "endTime" : "20171122T141131+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171126T163214Z"
+  } ],
+  "lastUpdate" : "20171126T163233Z"
+}, {
+  "date" : "20171122",
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20171121T213258+0100",
+    "endTime" : "20171122T141131+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171126T163214Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171122T142233+0100",
+    "endTime" : "20171122T172858+0100",
+    "place" : {
+      "id" : 724863693,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.396092,
+        "lon" : 2.1933787
+      }
+    },
+    "lastUpdate" : "20171122T174749Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171122T173244+0100",
+    "endTime" : "20171122T210814+0100",
+    "place" : {
+      "id" : 724726006,
+      "name" : "IAAC > Institute for Advanced Architecture of Catalonia",
+      "type" : "facebook",
+      "facebookPlaceId" : "247876728823",
+      "location" : {
+        "lat" : 41.39672,
+        "lon" : 2.19431
+      }
+    },
+    "lastUpdate" : "20171126T163233Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171122T210814+0100",
+    "endTime" : "20171122T211848+0100",
+    "place" : {
+      "id" : 734178073,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.395787,
+        "lon" : 2.1930652
+      }
+    },
+    "lastUpdate" : "20171122T204808Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171122T213926+0100",
+    "endTime" : "20171123T125321+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171126T163214Z"
+  } ],
+  "lastUpdate" : "20171126T163233Z"
+}, {
+  "date" : "20171123",
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20171122T213926+0100",
+    "endTime" : "20171123T125321+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171126T163214Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171123T125607+0100",
+    "endTime" : "20171123T125825+0100",
+    "place" : {
+      "id" : 734789189,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.386153,
+        "lon" : 2.1809268
+      }
+    },
+    "lastUpdate" : "20171123T121741Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171123T130835+0100",
+    "endTime" : "20171123T131911+0100",
+    "place" : {
+      "id" : 724863693,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.396092,
+        "lon" : 2.1933787
+      }
+    },
+    "lastUpdate" : "20171123T134748Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171123T131911+0100",
+    "endTime" : "20171123T142528+0100",
+    "place" : {
+      "id" : 724726006,
+      "name" : "IAAC > Institute for Advanced Architecture of Catalonia",
+      "type" : "facebook",
+      "facebookPlaceId" : "247876728823",
+      "location" : {
+        "lat" : 41.39672,
+        "lon" : 2.19431
+      }
+    },
+    "lastUpdate" : "20171126T163233Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171123T142736+0100",
+    "endTime" : "20171123T191353+0100",
+    "place" : {
+      "id" : 724863693,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.396092,
+        "lon" : 2.1933787
+      }
+    },
+    "lastUpdate" : "20171123T195326Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171123T191652+0100",
+    "endTime" : "20171123T202746+0100",
+    "place" : {
+      "id" : 724726006,
+      "name" : "IAAC > Institute for Advanced Architecture of Catalonia",
+      "type" : "facebook",
+      "facebookPlaceId" : "247876728823",
+      "location" : {
+        "lat" : 41.39672,
+        "lon" : 2.19431
+      }
+    },
+    "lastUpdate" : "20171126T163233Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171123T202953+0100",
+    "endTime" : "20171123T204557+0100",
+    "place" : {
+      "id" : 734178073,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.395787,
+        "lon" : 2.1930652
+      }
+    },
+    "lastUpdate" : "20171123T212320Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171123T205327+0100",
+    "endTime" : "20171123T205554+0100",
+    "place" : {
+      "id" : 734931653,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.387013,
+        "lon" : 2.1819507
+      }
+    },
+    "lastUpdate" : "20171123T212320Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171123T210001+0100",
+    "endTime" : "20171124T143721+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171126T163214Z"
+  } ],
+  "lastUpdate" : "20171126T163233Z"
+}, {
+  "date" : "20171124",
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20171123T210001+0100",
+    "endTime" : "20171124T143721+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171126T163214Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171124T145818+0100",
+    "endTime" : "20171124T150504+0100",
+    "place" : {
+      "id" : 735141318,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.400256,
+        "lon" : 2.1956995
+      }
+    },
+    "lastUpdate" : "20171124T142604Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171124T151346+0100",
+    "endTime" : "20171124T192334+0100",
+    "place" : {
+      "id" : 724863693,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.396092,
+        "lon" : 2.1933787
+      }
+    },
+    "lastUpdate" : "20171124T190404Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171124T192738+0100",
+    "endTime" : "20171124T201035+0100",
+    "place" : {
+      "id" : 724726006,
+      "name" : "IAAC > Institute for Advanced Architecture of Catalonia",
+      "type" : "facebook",
+      "facebookPlaceId" : "247876728823",
+      "location" : {
+        "lat" : 41.39672,
+        "lon" : 2.19431
+      }
+    },
+    "lastUpdate" : "20171126T163233Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171124T203555+0100",
+    "endTime" : "20171124T222500+0100",
+    "place" : {
+      "id" : 735271209,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.385606,
+        "lon" : 2.1814646
+      }
+    },
+    "lastUpdate" : "20171124T221014Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171124T222810+0100",
+    "endTime" : "20171125T000439+0100",
+    "place" : {
+      "id" : 735297157,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.384576,
+        "lon" : 2.1817759
+      }
+    },
+    "lastUpdate" : "20171124T234522Z"
+  } ],
+  "lastUpdate" : "20171126T163233Z"
+}, {
+  "date" : "20171125",
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20171124T222810+0100",
+    "endTime" : "20171125T000439+0100",
+    "place" : {
+      "id" : 735297157,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.384576,
+        "lon" : 2.1817759
+      }
+    },
+    "lastUpdate" : "20171124T234522Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171125T000439+0100",
+    "endTime" : "20171125T015745+0100",
+    "place" : {
+      "id" : 735320384,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.385351,
+        "lon" : 2.1828262
+      }
+    },
+    "lastUpdate" : "20171125T011605Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171125T020758+0100",
+    "endTime" : "20171125T144412+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171126T163214Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171125T150126+0100",
+    "endTime" : "20171125T160221+0100",
+    "place" : {
+      "id" : 735141318,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.400256,
+        "lon" : 2.1956995
+      }
+    },
+    "lastUpdate" : "20171125T151555Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171125T161226+0100",
+    "endTime" : "20171125T203511+0100",
+    "place" : {
+      "id" : 724863693,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.396092,
+        "lon" : 2.1933787
+      }
+    },
+    "lastUpdate" : "20171125T195328Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171125T203855+0100",
+    "endTime" : "20171125T204705+0100",
+    "place" : {
+      "id" : 723595298,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.396765,
+        "lon" : 2.1938857
+      }
+    },
+    "lastUpdate" : "20171125T212841Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171125T204706+0100",
+    "endTime" : "20171125T210705+0100",
+    "place" : {
+      "id" : 734178073,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.395787,
+        "lon" : 2.1930652
+      }
+    },
+    "lastUpdate" : "20171125T212841Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171125T212334+0100",
+    "endTime" : "20171125T223916+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171126T163214Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171125T230820+0100",
+    "endTime" : "20171126T001300+0100",
+    "place" : {
+      "id" : 735734312,
+      "name" : "Lateral Barcelona",
+      "type" : "facebook",
+      "facebookPlaceId" : "1211905448823876",
+      "location" : {
+        "lat" : 41.38979,
+        "lon" : 2.1638099
+      }
+    },
+    "lastUpdate" : "20171126T163322Z"
+  } ],
+  "lastUpdate" : "20171126T163322Z"
+}, {
+  "date" : "20171126",
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20171125T230820+0100",
+    "endTime" : "20171126T001300+0100",
+    "place" : {
+      "id" : 735734312,
+      "name" : "Lateral Barcelona",
+      "type" : "facebook",
+      "facebookPlaceId" : "1211905448823876",
+      "location" : {
+        "lat" : 41.38979,
+        "lon" : 2.1638099
+      }
+    },
+    "lastUpdate" : "20171126T163322Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171126T004208+0100",
+    "endTime" : "20171126T133601+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171126T163214Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171126T133633+0100",
+    "endTime" : "20171126T135056+0100",
+    "place" : {
+      "id" : 735938218,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.387449,
+        "lon" : 2.1792177
+      }
+    },
+    "lastUpdate" : "20171126T134645Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171126T135541+0100",
+    "endTime" : "20171126T140029+0100",
+    "place" : {
+      "id" : 735938219,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.385547,
+        "lon" : 2.1804016
+      }
+    },
+    "lastUpdate" : "20171126T134645Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171126T154033+0100",
+    "endTime" : "20171127T151115+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171127T144238Z"
+  } ],
+  "lastUpdate" : "20171127T144238Z"
+} ]

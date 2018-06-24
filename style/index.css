@@ -1,0 +1,298 @@
+body {font-family: "Montserrat", sans-serif;}
+h1,h2,h3,h4,h5,h6,p {padding-left: 50px; padding-right: 50px;}
+.w3-row-padding img {margin-bottom: 12px}
+/* Set the width of the sidebar to 120px */
+.w3-sidebar {width: 120px;background: #222;}
+/* Add a left margin to the "page content" that matches the width of the sidebar (120px) */
+#main {margin-left: 120px}
+/* Remove margins from "page content" on small screens */
+@media only screen and (max-width: 600px) {#main {margin-left: 0}}
+
+#wecyclemap{
+    width:90%;
+    height: 500px;
+}
+
+#ActivityChart{
+    width:90%;
+    height:500px;
+}
+
+#dataimage{
+    width:90%;
+    height: 300px;
+}
+
+text {
+    background-color:white;
+    opacity:inherit;
+}
+
+.parallax1 {
+/* PARALLAX!!!! */
+/* The image used */
+    background-image: url("background/main_900(YiboWang-Shutterstock).jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+
+}
+.parallax2-1 {
+/* PARALLAX!!!! */
+/* The image used */
+    background-image: url("background/shanghai_mobilitydata1.jpg");
+
+    /* Set a specific height */
+    min-height: 400px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax2-2 {
+/* PARALLAX!!!! */
+/* The image used */
+    background-image: url("background/shanghai_mobilitydata2.jpg");
+
+    /* Set a specific height */
+    min-height: 400px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax2-3 {
+/* PARALLAX!!!! */
+/* The image used */
+    background-image: url("background/shanghai_mobilitydata3.jpg");
+
+    /* Set a specific height */
+    min-height: 600px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax3-1 {
+/* PARALLAX!!!! */
+/* The image used */
+    background-image: url("background/barcelonanetwork_zoom1.jpg");
+
+    /* Set a specific height */
+    min-height: 800px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax3-2 {
+/* PARALLAX!!!! */
+/* The image used */
+    background-image: url("background/shanghainetwork_zoom1.JPG");
+
+    /* Set a specific height */
+    min-height: 800px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax4-1 {
+/* PARALLAX!!!! */
+/* The image used */
+    background-image: url("background/DisturbingThePeace-RobertMoses-Bronx-WSJ.jpg");
+
+    /* Set a specific height */
+    min-height: 600px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax4-2 {
+/* PARALLAX!!!! */
+/* The image used */
+    background-image: url("background/DisturbingThePeace-RobertMoses-Bronx-WSJ(2).jpg");
+
+    /* Set a specific height */
+    min-height: 700px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax5-1 {
+/* PARALLAX!!!! */
+/* The image used */
+    background-image: url("background/A-Bicycle-Is-1.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax5-2 {
+/* PARALLAX!!!! */
+/* The image used */
+    background-image: url("background/A-Bicycle-Is-2.jpg");
+
+    /* Set a specific height */
+    min-height: 700px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax6 {
+/* PARALLAX!!!! */
+/* The image used */
+    background-image: url("background/960x0.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax7 {
+/* PARALLAX!!!! */
+/* The image used */
+    background-image: url("background/c2e2aa8c-1b38-11e7-b4ed-ac719e54b474_1280x720_184422 (via scmp.com).jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax8-1 {
+/* PARALLAX!!!! */
+/* The image used */
+    background-image: url("background/shanghai_mobilitydata_bw.jpg");
+
+    /* Set a specific height */
+    min-height: 600px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax8-2 {
+/* PARALLAX!!!! */
+/* The image used */
+    background-image: url("background/shanghai_mobilitydata4.jpg");
+
+    /* Set a specific height */
+    min-height: 700px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax9 {
+/* PARALLAX!!!! */
+/* The image used */
+    background-image: url("background/wecycle-app-screenshot.jpg");
+
+    /* Set a specific height */
+    min-height: 600px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax10 {
+/* PARALLAX!!!! */
+/* The image used */
+    background-image: url("background/wecycle-transaction-diagram.jpg");
+
+    /* Set a specific height */
+    min-height: 800px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax11 {
+/* PARALLAX!!!! */
+/* The image used */
+    background-image: url("background/940_CityLab_ArkansasBikeLanes_viaWaltonFamilyFoundation.jpg");
+
+    /* Set a specific height */
+    min-height: 700px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax12 {
+/* PARALLAX!!!! */
+/* The image used */
+    background-image: url("background/940_CityLab_ArkansasBikeLanes_viaWaltonFamilyFoundation.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-header {
+/* PARALLAX!!!! */
+/* The image used */
+    background-image: url("background/vintage-2715662_1280(blue-opacity).jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

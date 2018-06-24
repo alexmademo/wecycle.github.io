@@ -1,0 +1,86 @@
+[ {
+  "date" : "20171023",
+  "summary" : [ {
+    "activity" : "cycling",
+    "group" : "cycling",
+    "duration" : 429.0,
+    "distance" : 1566.0,
+    "calories" : 30
+  }, {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 415.0,
+    "distance" : 481.0,
+    "steps" : 732,
+    "calories" : 20
+  } ],
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20171023T114246+0200",
+    "endTime" : "20171023T114727+0200",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171126T163214Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20171023T114727+0200",
+    "endTime" : "20171023T115909+0200",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171023T114727+0200",
+      "endTime" : "20171023T115200+0200",
+      "duration" : 273.0,
+      "distance" : 321.0,
+      "steps" : 519,
+      "calories" : 14,
+      "trackPoints" : [ ]
+    }, {
+      "activity" : "cycling",
+      "group" : "cycling",
+      "manual" : false,
+      "startTime" : "20171023T115200+0200",
+      "endTime" : "20171023T115909+0200",
+      "duration" : 429.0,
+      "distance" : 1566.0,
+      "calories" : 30,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20171023T100544Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171023T115909+0200",
+    "endTime" : "20171023T120543+0200",
+    "place" : {
+      "id" : 723595298,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.396765,
+        "lon" : 2.1938857
+      }
+    },
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171023T120006+0200",
+      "endTime" : "20171023T120228+0200",
+      "duration" : 142.0,
+      "distance" : 160.0,
+      "steps" : 213,
+      "calories" : 7,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20171023T100544Z"
+  } ],
+  "caloriesIdle" : 1225,
+  "lastUpdate" : "20171126T163214Z"
+} ]

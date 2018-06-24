@@ -1,0 +1,19 @@
+[ {
+  "date" : "20171123",
+  "summary" : [ {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 1968.0,
+    "distance" : 2160.0,
+    "steps" : 3093,
+    "calories" : 92
+  }, {
+    "activity" : "cycling",
+    "group" : "cycling",
+    "duration" : 926.0,
+    "distance" : 3051.0,
+    "calories" : 60
+  } ],
+  "caloriesIdle" : 1225,
+  "lastUpdate" : "20171126T163233Z"
+} ]

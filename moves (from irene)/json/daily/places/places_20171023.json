@@ -1,0 +1,32 @@
+[ {
+  "date" : "20171023",
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20171023T114246+0200",
+    "endTime" : "20171023T114727+0200",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171126T163214Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171023T115909+0200",
+    "endTime" : "20171023T120543+0200",
+    "place" : {
+      "id" : 723595298,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.396765,
+        "lon" : 2.1938857
+      }
+    },
+    "lastUpdate" : "20171023T100544Z"
+  } ],
+  "lastUpdate" : "20171126T163214Z"
+} ]

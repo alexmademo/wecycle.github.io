@@ -1,0 +1,102 @@
+[ {
+  "date" : "20171129",
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20171128T213042+0100",
+    "endTime" : "20171129T085615+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171129T085241Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171129T091558+0100",
+    "endTime" : "20171129T111955+0100",
+    "place" : {
+      "id" : 734156548,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.38545,
+        "lon" : 2.1633247
+      }
+    },
+    "lastUpdate" : "20171129T115807Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171129T113540+0100",
+    "endTime" : "20171129T114957+0100",
+    "place" : {
+      "id" : 736744144,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.391796,
+        "lon" : 2.1647456
+      }
+    },
+    "lastUpdate" : "20171129T115807Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171129T121835+0100",
+    "endTime" : "20171129T140251+0100",
+    "place" : {
+      "id" : 724726006,
+      "name" : "IAAC > Institute for Advanced Architecture of Catalonia",
+      "type" : "facebook",
+      "facebookPlaceId" : "247876728823",
+      "location" : {
+        "lat" : 41.39672,
+        "lon" : 2.19431
+      }
+    },
+    "lastUpdate" : "20171129T133002Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171129T140651+0100",
+    "endTime" : "20171129T173205+0100",
+    "place" : {
+      "id" : 724863693,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.396092,
+        "lon" : 2.1933787
+      }
+    },
+    "lastUpdate" : "20171129T180649Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171129T173520+0100",
+    "endTime" : "20171129T215122+0100",
+    "place" : {
+      "id" : 724726006,
+      "name" : "IAAC > Institute for Advanced Architecture of Catalonia",
+      "type" : "facebook",
+      "facebookPlaceId" : "247876728823",
+      "location" : {
+        "lat" : 41.39672,
+        "lon" : 2.19431
+      }
+    },
+    "lastUpdate" : "20171129T223956Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171129T221410+0100",
+    "endTime" : "20171130T093247+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171130T093054Z"
+  } ],
+  "lastUpdate" : "20171130T093054Z"
+} ]

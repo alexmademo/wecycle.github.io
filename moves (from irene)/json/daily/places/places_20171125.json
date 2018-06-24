@@ -1,0 +1,126 @@
+[ {
+  "date" : "20171125",
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20171124T222810+0100",
+    "endTime" : "20171125T000439+0100",
+    "place" : {
+      "id" : 735297157,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.384576,
+        "lon" : 2.1817759
+      }
+    },
+    "lastUpdate" : "20171124T234522Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171125T000439+0100",
+    "endTime" : "20171125T015745+0100",
+    "place" : {
+      "id" : 735320384,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.385351,
+        "lon" : 2.1828262
+      }
+    },
+    "lastUpdate" : "20171125T011605Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171125T020758+0100",
+    "endTime" : "20171125T144412+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171126T163214Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171125T150126+0100",
+    "endTime" : "20171125T160221+0100",
+    "place" : {
+      "id" : 735141318,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.400256,
+        "lon" : 2.1956995
+      }
+    },
+    "lastUpdate" : "20171125T151555Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171125T161226+0100",
+    "endTime" : "20171125T203511+0100",
+    "place" : {
+      "id" : 724863693,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.396092,
+        "lon" : 2.1933787
+      }
+    },
+    "lastUpdate" : "20171125T195328Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171125T203855+0100",
+    "endTime" : "20171125T204705+0100",
+    "place" : {
+      "id" : 723595298,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.396765,
+        "lon" : 2.1938857
+      }
+    },
+    "lastUpdate" : "20171125T212841Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171125T204706+0100",
+    "endTime" : "20171125T210705+0100",
+    "place" : {
+      "id" : 734178073,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.395787,
+        "lon" : 2.1930652
+      }
+    },
+    "lastUpdate" : "20171125T212841Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171125T212334+0100",
+    "endTime" : "20171125T223916+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171126T163214Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171125T230820+0100",
+    "endTime" : "20171126T001300+0100",
+    "place" : {
+      "id" : 735734312,
+      "name" : "Lateral Barcelona",
+      "type" : "facebook",
+      "facebookPlaceId" : "1211905448823876",
+      "location" : {
+        "lat" : 41.38979,
+        "lon" : 2.1638099
+      }
+    },
+    "lastUpdate" : "20171126T163322Z"
+  } ],
+  "lastUpdate" : "20171126T163322Z"
+} ]

@@ -1,0 +1,86 @@
+[ {
+  "date" : "20171124",
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20171123T210001+0100",
+    "endTime" : "20171124T143721+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "lastUpdate" : "20171126T163214Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171124T145818+0100",
+    "endTime" : "20171124T150504+0100",
+    "place" : {
+      "id" : 735141318,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.400256,
+        "lon" : 2.1956995
+      }
+    },
+    "lastUpdate" : "20171124T142604Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171124T151346+0100",
+    "endTime" : "20171124T192334+0100",
+    "place" : {
+      "id" : 724863693,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.396092,
+        "lon" : 2.1933787
+      }
+    },
+    "lastUpdate" : "20171124T190404Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171124T192738+0100",
+    "endTime" : "20171124T201035+0100",
+    "place" : {
+      "id" : 724726006,
+      "name" : "IAAC > Institute for Advanced Architecture of Catalonia",
+      "type" : "facebook",
+      "facebookPlaceId" : "247876728823",
+      "location" : {
+        "lat" : 41.39672,
+        "lon" : 2.19431
+      }
+    },
+    "lastUpdate" : "20171126T163233Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171124T203555+0100",
+    "endTime" : "20171124T222500+0100",
+    "place" : {
+      "id" : 735271209,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.385606,
+        "lon" : 2.1814646
+      }
+    },
+    "lastUpdate" : "20171124T221014Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171124T222810+0100",
+    "endTime" : "20171125T000439+0100",
+    "place" : {
+      "id" : 735297157,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.384576,
+        "lon" : 2.1817759
+      }
+    },
+    "lastUpdate" : "20171124T234522Z"
+  } ],
+  "lastUpdate" : "20171126T163233Z"
+} ]

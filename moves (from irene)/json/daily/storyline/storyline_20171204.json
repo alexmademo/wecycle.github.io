@@ -1,0 +1,153 @@
+[ {
+  "date" : "20171204",
+  "summary" : [ {
+    "activity" : "walking",
+    "group" : "walking",
+    "duration" : 718.0,
+    "distance" : 682.0,
+    "steps" : 1124,
+    "calories" : 29
+  }, {
+    "activity" : "cycling",
+    "group" : "cycling",
+    "duration" : 333.0,
+    "distance" : 1579.0,
+    "calories" : 30
+  } ],
+  "segments" : [ {
+    "type" : "place",
+    "startTime" : "20171203T213206+0100",
+    "endTime" : "20171204T151638+0100",
+    "place" : {
+      "id" : 723590151,
+      "name" : "Home",
+      "type" : "home",
+      "location" : {
+        "lat" : 41.38532053200193,
+        "lon" : 2.179510890362634
+      }
+    },
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171204T091658+0100",
+      "endTime" : "20171204T091703+0100",
+      "duration" : 5.0,
+      "distance" : 3.0,
+      "steps" : 7,
+      "calories" : 0,
+      "trackPoints" : [ ]
+    }, {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171204T151628+0100",
+      "endTime" : "20171204T151635+0100",
+      "duration" : 7.0,
+      "distance" : 5.0,
+      "steps" : 10,
+      "calories" : 0,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20171204T150631Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20171204T151638+0100",
+    "endTime" : "20171204T152705+0100",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171204T151638+0100",
+      "endTime" : "20171204T152130+0100",
+      "duration" : 292.0,
+      "distance" : 322.0,
+      "steps" : 529,
+      "calories" : 14,
+      "trackPoints" : [ ]
+    }, {
+      "activity" : "cycling",
+      "group" : "cycling",
+      "manual" : false,
+      "startTime" : "20171204T152131+0100",
+      "endTime" : "20171204T152704+0100",
+      "duration" : 333.0,
+      "distance" : 1579.0,
+      "calories" : 30,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20171204T150631Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171204T152705+0100",
+    "endTime" : "20171204T173834+0100",
+    "place" : {
+      "id" : 724863693,
+      "type" : "unknown",
+      "location" : {
+        "lat" : 41.396092,
+        "lon" : 2.1933787
+      }
+    },
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171204T152705+0100",
+      "endTime" : "20171204T152956+0100",
+      "duration" : 171.0,
+      "distance" : 192.0,
+      "steps" : 257,
+      "calories" : 8,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20171204T181103Z"
+  }, {
+    "type" : "move",
+    "startTime" : "20171204T173834+0100",
+    "endTime" : "20171204T174226+0100",
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171204T173834+0100",
+      "endTime" : "20171204T174225+0100",
+      "duration" : 231.0,
+      "distance" : 151.0,
+      "steps" : 302,
+      "calories" : 6,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20171204T181103Z"
+  }, {
+    "type" : "place",
+    "startTime" : "20171204T174226+0100",
+    "endTime" : "20171204T210659+0100",
+    "place" : {
+      "id" : 724726006,
+      "name" : "IAAC > Institute for Advanced Architecture of Catalonia",
+      "type" : "facebook",
+      "facebookPlaceId" : "247876728823",
+      "location" : {
+        "lat" : 41.39672,
+        "lon" : 2.19431
+      }
+    },
+    "activities" : [ {
+      "activity" : "walking",
+      "group" : "walking",
+      "manual" : false,
+      "startTime" : "20171204T174226+0100",
+      "endTime" : "20171204T174238+0100",
+      "duration" : 12.0,
+      "distance" : 9.0,
+      "steps" : 19,
+      "calories" : 0,
+      "trackPoints" : [ ]
+    } ],
+    "lastUpdate" : "20171204T200706Z"
+  } ],
+  "caloriesIdle" : 1225,
+  "lastUpdate" : "20171204T200706Z"
+} ]
